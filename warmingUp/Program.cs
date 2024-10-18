@@ -1,4 +1,8 @@
 ﻿
+using System.Collections;
+using warmingUp.Task3;
+
+
 namespace warmingUp 
 {
     class Program 
@@ -14,6 +18,13 @@ namespace warmingUp
             
 
             Console.ReadLine();
+
+
+            List<string> arrayList = new List<string> { "Anri", "Giorgi", "Saba", "jaba" };
+
+            arrayList.Print();
+            
+            
         }
     
     }
