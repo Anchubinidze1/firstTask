@@ -35,6 +35,16 @@ namespace warmingUp
 
             Console.WriteLine(person.IsLocateedInTbilisi());
 
+            Person person2 = new Person
+            {
+                Name = "Anri",
+                Age = 2,
+                City = "Not in Tbilisi"
+            };
+
+            Console.WriteLine(person.YourgestOfTwo(person2));
+
+
         }
     
     }
