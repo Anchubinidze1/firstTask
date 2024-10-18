@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\warmingup\\task3\\davaleba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\task3\\davaleba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\warmingup\\task3\\davaleba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\task3\\davaleba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "davaleba1.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba1.cs",
+              "RelativeDocumentMoniker": "warmingUp\\Task3\\davaleba1.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba1.cs*",
+              "RelativeToolTip": "warmingUp\\Task3\\davaleba1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:33:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "davaleba2.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba2.cs",
+              "RelativeDocumentMoniker": "warmingUp\\Task3\\davaleba2.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba2.cs*",
+              "RelativeToolTip": "warmingUp\\Task3\\davaleba2.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:33:13.122Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +58,9 @@
               "RelativeDocumentMoniker": "warmingUp\\Program.cs",
               "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Program.cs*",
               "RelativeToolTip": "warmingUp\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T12:15:24.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "davaleba1.cs",
-              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba1.cs",
-              "RelativeDocumentMoniker": "warmingUp\\Task3\\davaleba1.cs",
-              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba1.cs",
-              "RelativeToolTip": "warmingUp\\Task3\\davaleba1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:13:21.368Z",
               "EditorCaption": ""
             }
           ]
