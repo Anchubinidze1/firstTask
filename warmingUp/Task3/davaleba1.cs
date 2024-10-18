@@ -16,5 +16,18 @@ namespace warmingUp.Task3
             }
             Console.WriteLine();
         }
+
+        //meore davalebistvis
+
+        public static bool IsLocateedInTbilisi(this Person person) 
+        {
+            string toLower = person.City.ToLower();
+            if(toLower != "tbilisi" ) 
+            {
+                return false;
+            }
+
+            return true;
+        }
     }
 }

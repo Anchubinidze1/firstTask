@@ -19,12 +19,22 @@ namespace warmingUp
 
             Console.ReadLine();
 
+            //task3 n1
 
             List<string> arrayList = new List<string> { "Anri", "Giorgi", "Saba", "jaba" };
 
             arrayList.Print();
-            
-            
+            //task3 n2
+
+            Person person = new Person
+            {
+                Name = "Nika",
+                Age = 1,
+                City = "Tbilisi"
+            };
+
+            Console.WriteLine(person.IsLocateedInTbilisi());
+
         }
     
     }
