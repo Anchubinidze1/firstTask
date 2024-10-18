@@ -7,8 +7,11 @@ namespace warmingUp
         {
             DigitalTimerLogic timerLogic = new DigitalTimerLogic();
 
-            timerLogic.start();
+            //timerLogic.start();
 
+
+            StudentRegistration registration = new StudentRegistration("Anri", "Chubinidze", 212);
+            
 
             Console.ReadLine();
         }
