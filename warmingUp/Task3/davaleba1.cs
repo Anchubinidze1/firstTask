@@ -33,9 +33,9 @@ namespace warmingUp.Task3
 
         //mesame davalebis
 
-        public static Person YourgestOfTwo(this Person person1 , Person person2) 
-        {
-            if (person1.)
-        }
+        //public static Person YourgestOfTwo(this Person person1 , Person person2) 
+        //{
+        //    //if (person1.)
+        //}
     }
 }
