@@ -1,6 +1,7 @@
 ﻿
 using System.Collections;
 using warmingUp.Task3;
+using static System.Net.WebRequestMethods;
 
 
 namespace warmingUp 
@@ -43,6 +44,22 @@ namespace warmingUp
             };
 
             Console.WriteLine(person.YourgestOfTwo(person2));
+
+
+            string[] linkEndsWith = { "https://github.com"
+                    ,"https://www.tutorialsteacher.com"
+                    ,"https://on.ge"
+                    ,"https://police.ge"
+                    ,"https://www.ug.edu.ge"
+                    ,"https://stackoverflow.com"
+            };
+
+            var geLinks = linkEndsWith.Where(link => link.DoesLinkEndWithGe()).ToList();
+
+            foreach ( var geLink in geLinks ) 
+            {
+                Console.WriteLine($"This link ends with '.ge' : {geLink}");
+            }
 
 
         }

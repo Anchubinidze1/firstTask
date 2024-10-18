@@ -46,5 +46,17 @@ namespace warmingUp.Task3
 
             else return null;
         }
+
+        //davaleba 4
+
+        public static bool DoesLinkEndWithGe(this string str) 
+        {
+            if (!str.EndsWith(".ge")) 
+            {
+                return false;
+            }
+
+            return true;
+        }
     }
 }
