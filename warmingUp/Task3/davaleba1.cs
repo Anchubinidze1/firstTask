@@ -29,5 +29,13 @@ namespace warmingUp.Task3
 
             return true;
         }
+
+
+        //mesame davalebis
+
+        public static Person YourgestOfTwo(this Person person1 , Person person2) 
+        {
+            if (person1.)
+        }
     }
 }
