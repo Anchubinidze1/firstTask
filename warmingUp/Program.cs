@@ -6,13 +6,22 @@ using static System.Net.WebRequestMethods;
 
 namespace warmingUp 
 {
+    
 
     class Program 
     {
         public delegate bool LinkEndsWith(string url, string endsWith);
-        
+
+       
+        private static void SubscriberMethod(object sender, EventArgs e)
+        {
+            Console.WriteLine($"You have been Registered Well Done \nTime of the registration: {DateTime.Now:HH.mm.ss}");
+        }
+
+
         public static void Main(string[] args) 
         {
+            /*
             DigitalTimerLogic timerLogic = new DigitalTimerLogic();
 
             
@@ -20,10 +29,7 @@ namespace warmingUp
             //timerLogic.start();
 
 
-            StudentRegistration registration = new StudentRegistration("Anri", "Chubinidze", 212);
             
-
-            Console.ReadLine();
 
             //task3 n1
 
@@ -63,12 +69,17 @@ namespace warmingUp
             Func<string, bool> checkGeDomeain = link => link.DoesLinkEndWithGe();
 
             var getLinks = linkEndsWith.Where(checkGeDomeain).ToList();  
+            */
 
+            /*
             foreach ( var geLink in getLinks ) 
             {
                 Console.WriteLine($"This link ends with '.ge' : {geLink}");
             }
+            */
 
+            /*
+            getLinks.Print();
             /// davaleba 4 dasrulda
             /// 
 
@@ -80,6 +91,29 @@ namespace warmingUp
             IEnumerable<string> getLinkss = linkEndsWith.Where(link => linkEnds(link, chooseYourLinkEnding));
 
             getLinkss.Print();
+
+
+            
+
+            
+            */
+
+            //davaleba 2 uketesi
+
+            List<StudentRegistration> students = new List<StudentRegistration>() 
+            { 
+                new StudentRegistration { _firstName = "Anri" , _lastName = "Chubinidze" , id = 1},
+                new StudentRegistration { _firstName = "Nika" , _lastName = "Chubin" , id = 2},
+                new StudentRegistration { _firstName = "Luka" , _lastName = "Chu" , id = 3},
+                new StudentRegistration { _firstName = "Giorgi" , _lastName = "Ch" , id = 4}
+            };
+
+            foreach (var student in students) 
+            {
+                Console.WriteLine(student.IsStudentRegistered(student._lastName,student._firstName,student.id));
+                student.studentRegistered += SubscriberMethod;
+                student.RegisterStudent();
+            }
         }
     
     }

@@ -6,27 +6,30 @@ using System.Threading.Tasks;
 
 namespace warmingUp
 {
+
+    
+
     internal class StudentRegistration
     {
-        private string _lastName;
-        private string _firstName;
-        private int id;
+        public string _lastName {  get; set; }
+        public string _firstName {  get; set; }
+        public int id { get; set; }
 
-        private event EventHandler studentRegistered;
+        public event EventHandler studentRegistered;
 
-        public StudentRegistration(string lastName, string firstName , int id) 
+        public bool IsStudentRegistered(string lastName, string firstName , int id) 
         {
-            _lastName = lastName;
-            _firstName = firstName;
-            this.id = id;
+            if(lastName != null && firstName !=null && id != null) 
+            {
+                return true;
+            }
 
-            RegisterStudent();
+            return false;
         }
 
         public void RegisterStudent() 
         {
 
-            studentRegistered += SubscriberMethod;
             OnStudentRegistered();
         }
 
@@ -35,9 +38,6 @@ namespace warmingUp
             studentRegistered?.Invoke(this, EventArgs.Empty);
         }
 
-        private void SubscriberMethod(object sender , EventArgs e) 
-        {
-            Console.WriteLine($"You have been Registered Well Done \nTime of the registration: {DateTime.Now:HH.mm.ss}");
-        }
+        
     }
 }
