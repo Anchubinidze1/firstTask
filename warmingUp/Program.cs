@@ -9,7 +9,7 @@ namespace warmingUp
 
     class Program 
     {
-
+        public delegate bool LinkEndsWith(string url, string endsWith);
         
         public static void Main(string[] args) 
         {
@@ -50,6 +50,7 @@ namespace warmingUp
 
             Console.WriteLine(person.YourgestOfTwo(person2));
 
+            // davaleba 4
 
             string[] linkEndsWith = { "https://github.com"
                     ,"https://www.tutorialsteacher.com"
@@ -68,7 +69,17 @@ namespace warmingUp
                 Console.WriteLine($"This link ends with '.ge' : {geLink}");
             }
 
+            /// davaleba 4 dasrulda
+            /// 
 
+            //davaleba 5
+            string chooseYourLinkEnding = ".Com";
+
+            LinkEndsWith linkEnds = (link, domein) => link.DoesLinkEndWith(chooseYourLinkEnding);
+
+            IEnumerable<string> getLinkss = linkEndsWith.Where(link => linkEnds(link, chooseYourLinkEnding));
+
+            getLinkss.Print();
         }
     
     }

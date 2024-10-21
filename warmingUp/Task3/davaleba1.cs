@@ -58,5 +58,12 @@ namespace warmingUp.Task3
 
             return true;
         }
+
+        //davaleba 5
+
+        public static bool DoesLinkEndWith(this string str , string endsWirth) 
+        {
+            return str.EndsWith(endsWirth , StringComparison.OrdinalIgnoreCase);
+        }
     }
 }
