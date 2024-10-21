@@ -6,11 +6,16 @@ using static System.Net.WebRequestMethods;
 
 namespace warmingUp 
 {
+
     class Program 
     {
+
+        
         public static void Main(string[] args) 
         {
             DigitalTimerLogic timerLogic = new DigitalTimerLogic();
+
+            
 
             //timerLogic.start();
 
@@ -54,9 +59,11 @@ namespace warmingUp
                     ,"https://stackoverflow.com"
             };
 
-            var geLinks = linkEndsWith.Where(link => link.DoesLinkEndWithGe()).ToList();
+            Func<string, bool> checkGeDomeain = link => link.DoesLinkEndWithGe();
 
-            foreach ( var geLink in geLinks ) 
+            var getLinks = linkEndsWith.Where(checkGeDomeain).ToList();  
+
+            foreach ( var geLink in getLinks ) 
             {
                 Console.WriteLine($"This link ends with '.ge' : {geLink}");
             }
