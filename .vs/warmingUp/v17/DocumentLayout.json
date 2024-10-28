@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\warmingup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\warmingup\\studentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\studentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\warmingup\\task3\\davaleba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\task3\\davaleba1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\warmingup\\task3\\davaleba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\task3\\davaleba2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\warmingup\\digitaltimerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B630EB24-9344-47C9-BC8B-452697349AC8}|warmingUp\\warmingUp.csproj|solutionrelative:warmingup\\digitaltimerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53E877F-072B-4A49-A2BE-BD40A565F731}|davaleba34\\davaleba34.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\davaleba34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53E877F-072B-4A49-A2BE-BD40A565F731}|davaleba34\\davaleba34.csproj|solutionrelative:davaleba34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "davaleba2.cs",
-              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba2.cs",
-              "RelativeDocumentMoniker": "warmingUp\\Task3\\davaleba2.cs",
-              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba2.cs",
-              "RelativeToolTip": "warmingUp\\Task3\\davaleba2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:56:31.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "davaleba1.cs",
-              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba1.cs",
-              "RelativeDocumentMoniker": "warmingUp\\Task3\\davaleba1.cs",
-              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Task3\\davaleba1.cs",
-              "RelativeToolTip": "warmingUp\\Task3\\davaleba1.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowEUAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:53:56.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\StudentRegistration.cs",
-              "RelativeDocumentMoniker": "warmingUp\\StudentRegistration.cs",
-              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\StudentRegistration.cs*",
-              "RelativeToolTip": "warmingUp\\StudentRegistration.cs*",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvxEAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:48:36.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DigitalTimerLogic.cs",
-              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\DigitalTimerLogic.cs",
-              "RelativeDocumentMoniker": "warmingUp\\DigitalTimerLogic.cs",
-              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\DigitalTimerLogic.cs",
-              "RelativeToolTip": "warmingUp\\DigitalTimerLogic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:26:27.627Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Program.cs",
-              "RelativeDocumentMoniker": "warmingUp\\Program.cs",
-              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\warmingUp\\Program.cs*",
-              "RelativeToolTip": "warmingUp\\Program.cs*",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAowHIAAAAqAAAA",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba34\\Program.cs",
+              "RelativeDocumentMoniker": "davaleba34\\Program.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba34\\Program.cs*",
+              "RelativeToolTip": "davaleba34\\Program.cs*",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwEYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:07:28.899Z",
+              "WhenOpened": "2024-10-21T10:35:56.805Z",
               "EditorCaption": ""
             }
           ]

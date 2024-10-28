@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("warmingUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a27d28fb5d736919fcb81501a7953ddf556e2983")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb6733b0a8201e9a7e447bed8b31da84389357a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("warmingUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("warmingUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
