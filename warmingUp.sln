@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "warmingUp", "warmingUp\warmingUp.csproj", "{B630EB24-9344-47C9-BC8B-452697349AC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "davaleba34", "davaleba34\davaleba34.csproj", "{B53E877F-072B-4A49-A2BE-BD40A565F731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "davaleba34", "davaleba34\davaleba34.csproj", "{B53E877F-072B-4A49-A2BE-BD40A565F731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "davaleba35", "davaleba35\davaleba35.csproj", "{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B53E877F-072B-4A49-A2BE-BD40A565F731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B53E877F-072B-4A49-A2BE-BD40A565F731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B53E877F-072B-4A49-A2BE-BD40A565F731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}|davaleba35\\davaleba35.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\davaleba35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}|davaleba35\\davaleba35.csproj|solutionrelative:davaleba35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}|davaleba35\\davaleba35.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\davaleba35\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}|davaleba35\\davaleba35.csproj|solutionrelative:davaleba35\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}|davaleba35\\davaleba35.csproj|c:\\users\\achubinidze\\source\\repos\\warmingup\\davaleba35\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC815E5-FBEF-4786-A3CE-3D1448F3EE83}|davaleba35\\davaleba35.csproj|solutionrelative:davaleba35\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba35\\Purchase.cs",
+              "RelativeDocumentMoniker": "davaleba35\\Purchase.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba35\\Purchase.cs",
+              "RelativeToolTip": "davaleba35\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:01:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba35\\Product.cs",
+              "RelativeDocumentMoniker": "davaleba35\\Product.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba35\\Product.cs",
+              "RelativeToolTip": "davaleba35\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:00:28.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba35\\Program.cs",
+              "RelativeDocumentMoniker": "davaleba35\\Program.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\warmingUp\\davaleba35\\Program.cs*",
+              "RelativeToolTip": "davaleba35\\Program.cs*",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv2MAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:56:58.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
