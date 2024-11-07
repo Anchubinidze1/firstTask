@@ -1,0 +1,14 @@
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.AssemblyInfoInputs.cache
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.AssemblyInfo.cs
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.exe
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.deps.json
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.runtimeconfig.json
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.dll
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\bin\Debug\net8.0\GarbageCollection.pdb
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.dll
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\refint\GarbageCollection.dll
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.pdb
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\GarbageCollection.genruntimeconfig.cache
+C:\Users\achubinidze\source\repos\GarbageCollection\GarbageCollection\obj\Debug\net8.0\ref\GarbageCollection.dll
