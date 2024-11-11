@@ -113,13 +113,19 @@ namespace GCExercises
     {
         public static void Main(string[] args)
         {
-            using (var logWriter = new LogWrite("log.txt"))
+            using (ConfigReader configReader = new ConfigReader("C://Users//achubinidze//Desktop//config.txt")) 
             {
-                logWriter.WriteLog("This is the first log entry.");
-                logWriter.WriteLog("This is the second log entry.");
+                Console.WriteLine(configReader.GetConfigValue("Port")); 
+
             }
 
-            Console.WriteLine("Log entries written and file closed.");
+            using(UserSettings settings = new UserSettings("C://Users//achubinidze//Desktop//config.txt")) 
+            {
+                Console.WriteLine(settings.GetSettingValue("Port"));
+
+                settings.WriteSetting("Setting1=value1");
+                Console.WriteLine(settings.GetSettingValue("Setting1"));
+            }
         }
     }
 }

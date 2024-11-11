@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCExercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0b6e2589e032c275d097922e2dcff720b84e4c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCExercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCExercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

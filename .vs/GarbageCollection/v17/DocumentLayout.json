@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{E74A5C3B-F2B1-4A8D-8A68-3C8FE6DB6535}|GCExercises\\GCExercises.csproj|solutionrelative:gcexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB27165-92E7-4669-9CC6-96F1F1B14744}|GarbageCollection\\GarbageCollection.csproj|c:\\users\\achubinidze\\source\\repos\\garbagecollection\\garbagecollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB27165-92E7-4669-9CC6-96F1F1B14744}|GarbageCollection\\GarbageCollection.csproj|solutionrelative:garbagecollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E74A5C3B-F2B1-4A8D-8A68-3C8FE6DB6535}|GCExercises\\GCExercises.csproj|c:\\users\\achubinidze\\source\\repos\\garbagecollection\\gcexercises\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74A5C3B-F2B1-4A8D-8A68-3C8FE6DB6535}|GCExercises\\GCExercises.csproj|solutionrelative:gcexercises\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\GarbageCollection\\GarbageCollection\\Program.cs",
-              "RelativeDocumentMoniker": "GarbageCollection\\Program.cs",
-              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\GarbageCollection\\GarbageCollection\\Program.cs",
-              "RelativeToolTip": "GarbageCollection\\Program.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAuwG8AAAA2AAAA",
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\GarbageCollection\\GCExercises\\UserSettings.cs",
+              "RelativeDocumentMoniker": "GCExercises\\UserSettings.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\GarbageCollection\\GCExercises\\UserSettings.cs*",
+              "RelativeToolTip": "GCExercises\\UserSettings.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvz4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T08:16:04.742Z",
+              "WhenOpened": "2024-11-11T07:53:49.681Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "GCExercises\\Program.cs",
               "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\GarbageCollection\\GCExercises\\Program.cs",
               "RelativeToolTip": "GCExercises\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAiwEgAAABHAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAqwHwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T08:12:51.629Z",
               "EditorCaption": ""
